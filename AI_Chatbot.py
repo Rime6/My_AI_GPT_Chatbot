@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "my_secret_key_code_that_I_will_not_be_sharing_with_you_lol"
 
 def chatbot(prompt):
     response = openai.ChatCompletion.create(
